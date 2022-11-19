@@ -1,2 +1,1 @@
-# skolaprogramiranja
-1
+# Школа Програмирања
